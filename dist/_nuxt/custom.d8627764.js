@@ -1,0 +1,1 @@
+import{e as t,o as s,f as n,r,K as e}from"./entry.ae168f48.js";const c={},l=e("p",null,"Custom Layout",-1),a=e("hr",null,null,-1);function u(o,_){return s(),n("div",null,[l,a,r(o.$slots,"default")])}const f=t(c,[["render",u]]);export{f as default};

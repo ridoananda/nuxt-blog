@@ -1,0 +1,1 @@
+import{e as c,o,f as n,E as t,J as _}from"./entry.ae168f48.js";const s={},a={class:"prose code pre text headings anchor mx-auto"};function r(d,f){const e=_;return o(),n("main",a,[t(e)])}const p=c(s,[["render",r],["__scopeId","data-v-fc7b96b5"]]);export{p as default};
